@@ -1,7 +1,7 @@
 {
   "name": "fortune-teller",
   "version": "1.0.0",
-  "description": "",
+  "description": "##To Start the game ``` shell npm start  ```",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

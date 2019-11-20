@@ -5,15 +5,13 @@
   "scripts": {
     "test": "jest --colors --watchAll"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
- 
   "devDependencies": {
     "jest": "^24.9.0"
   },
-  "description": "",
+  "description": "Name    | Constructor Parms | Notes --------|-------------------|------- Employee| name, id, salary? | Abstract/Origin class Doctor  | name, id, salary? | Extends Employee Surgeon | name, id, salary? | Extends Employee Nurse   | name, id, salary? | Extends Employee Bluecollar | name, id, salary? | Abstract, Extends Employee Receptionist | name, id, salary? | Extends Bluecollar Janitor | name, id          | Extends Bluecollar Vampire Janitor | name, id  | is Janitor, but kind of evil Patient | name, id | Origin",
   "dependencies": {
     "readline-sync": "^1.4.10"
   }

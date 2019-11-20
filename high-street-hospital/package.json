@@ -1,0 +1,20 @@
+{
+  "name": "high-street-hospital-jalil-brad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --colors --watchAll"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+ 
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
